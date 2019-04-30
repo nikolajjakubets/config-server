@@ -10,7 +10,7 @@ spring:
   datasource:
     password: 2210
     username: root
-    url: jdbc:mysql://10.28.254.217:3306/icloud-dev?useSSL=true&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2b8
+    url: jdbc:mysql://10.28.254.211:3306/icloud-dev?useSSL=true&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2b8
     driver-class-name: com.mysql.cj.jdbc.Driver
 #Redis 配置
   redis:
