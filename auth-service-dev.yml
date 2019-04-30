@@ -6,8 +6,6 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${eureka.instance.port}/eureka/
-server:
-  port: 1002
 spring:
   datasource:
     password: 2210
